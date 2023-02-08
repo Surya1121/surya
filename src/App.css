@@ -1,0 +1,35 @@
+ /* .navbar{
+     margin-left:200px;
+     margin-right: 200px;
+     margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+ }
+ .Surya{
+    color: darkgreen;
+ }
+ .Home{
+    margin-left:200px;
+ }
+ a{
+    text-decoration: none;
+    padding-right: 10px;
+    font-size: 20px;
+
+
+ } */
+
+ .main{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh  ;
+   flex-direction: column;
+ }
+ .Surya :hover{
+      box-shadow: 2px 2px 2px black;
+      width: fit-content;
+      height: fit-content;
+ }
+
+ 
